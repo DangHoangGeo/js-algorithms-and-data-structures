@@ -12,6 +12,7 @@
         }
         right.set(nums[i], i);
     }
+    return []
 };
 
 let answer = twoSum([10,11,2,13,4,5,6],9);
