@@ -1,4 +1,5 @@
 /**
+ * One-pass Hash Table
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
